@@ -4,3 +4,4 @@
 .gitignore
 test.txt
 testinput.txt
+__pycache__
